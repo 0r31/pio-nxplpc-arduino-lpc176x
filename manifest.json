@@ -1,7 +1,7 @@
 {
     "framework-arduino-lpc176x": [
         {
-            "url": "https://github.com/dagorel/pio-framework-arduino-lpc176x/archive/1.0.1.zip",
+            "url": "https://github.com/0r31/pio-framework-arduino-lpc176x/archive/1.0.1.zip",
             "version": "1.0.1"
         }
     ]

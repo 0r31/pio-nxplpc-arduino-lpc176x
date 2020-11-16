@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dagorel/pio-nxplpc-arduino-lpc176x.git"
+    "url": "https://github.com/0r31/pio-nxplpc-arduino-lpc176x.git"
   },
   "version": "1.0.1",
   "packageRepositories": [
     "https://dl.bintray.com/platformio/dl-packages/manifest.json",
     "http://dl.platformio.org/packages/manifest.json",
-    "https://raw.githubusercontent.com/dagorel/pio-nxplpc-arduino-lpc176x/marlin_dac/manifest.json"
+    "https://raw.githubusercontent.com/0r31/pio-nxplpc-arduino-lpc176x/marlin_dac/manifest.json"
   ],
   "frameworks": {
     "arduino": {
